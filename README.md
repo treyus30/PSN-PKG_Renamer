@@ -1,7 +1,15 @@
 # PSN-PKG_Renamer
 Takes the raw .pkg files from the PSN content delivery (such as from NoPayStation) and uses pkg2zip to rename them for easy readability. (Big thanks https://github.com/mmozeiko/pkg2zip!)
 
+Supports all that pkg2zip does (PSX, PSP, PS Vita).
+
 For use in Windows only (batch file). 
+
+# Use:
+
+![image](https://github.com/treyus30/PSN-PKG_Renamer/assets/136277393/78eb460b-dd1b-48d3-8ee3-345fe0be1351)
+
+
 
 Supports several modes, as well as creating organizational folders for game/DLCs/updates. 
 
