@@ -3,7 +3,7 @@ Takes the raw .pkg files from the PSN content delivery (such as from NoPayStatio
 
 Supports all that pkg2zip does (PSX, PSP, PS Vita).
 
-For use in Windows only (batch file). 
+For use in Windows only (batch file). NOTE: For now, your launch path should not contain any spaces.
 
 # Use:
 
